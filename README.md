@@ -42,7 +42,7 @@ as genres, cast, and the overview.
 - To find out how similar the movies are, we need to find
     the distance between the vectors.
 - We find the cosine distance, i.e, the angle between the vectors.
-    based on the angle we get an idea about ow similar the movies are. 
+    based on the angle we get an idea about how similar the movies are. 
     Smaller the value, the more similar the movies are.
 - cosine_similarity from sklearn helps us for the task.
 - To find the 5 most similar movies, we sort the array of similarity values
