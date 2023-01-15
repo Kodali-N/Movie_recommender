@@ -1,5 +1,5 @@
 
-# Movie recommendor system
+# Movie recommender system
 
 ## Overview
 
