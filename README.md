@@ -51,6 +51,8 @@ as genres, cast, and the overview.
 ## Website:
 - we fetch the posters for the recommended 
     movies using the tmdb API.
+<img src="https://user-images.githubusercontent.com/86663030/212612650-f15fa077-72d4-4021-9641-62ca664349df.jpeg" width="650" height="350">
+<img src="https://user-images.githubusercontent.com/86663030/212612668-73c8706b-1720-4f65-b173-5e886ac2b073.jpeg" width="650" height="350">
 - yet to host the website for public
 
 
